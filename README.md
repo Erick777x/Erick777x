@@ -1,16 +1,15 @@
-### Hi there 👋
+### BEM-VINDO 💸
 
-<!--
-**Erick777x/Erick777x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *MEU NOME É ERICK* 
 
-Here are some ideas to get you started:
+- _estou estudando na [Alura_](https..//www.alura.com.br)
+- _aprendendo sobre a linguagem JavaScript_
+- _utilizo esse espaço para novos projetos_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode se comunicar comigo 💬
+@erick_zn_
+
+erick.xistiuk@gmail.com
+
+![](https://media.tenor.com/dEHyq2_CWJQAAAAC/mc-hariel-hariel.gif)
+
