@@ -2,7 +2,7 @@
 
 ### *MEU NOME É ERICK* 
 
-- _estou estudando na [Alura_](https..//www.alura.com.br)
+- _estou estudando na [Alura_](https..//www.alura.com.)
 - _aprendendo sobre a linguagem JavaScript_
 - _utilizo esse espaço para novos projetos_
 
